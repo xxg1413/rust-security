@@ -6,8 +6,8 @@ Rust Language Security
 
 ## Rustlang
 
-| ID | CVE-ID  | Description | Analysis | 漏洞分析 |
-|----|---------|-------------|---------|--------------|
+| ID | CVE-ID  | Description |  Analysis  |
+|----|---------|-------------|------------|
 | 3 | [CVE-2018-1000810](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000810) | Integer Overflow to Buffer Overflow  | None |
 | 2 | [CVE-2018-1000657](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000657) | Buffer Overflow | None |
 | 1 | [CVE-2018-1000622](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000622) | Uncontrolled Search Path Element | None |
