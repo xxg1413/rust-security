@@ -1,4 +1,4 @@
-## Rustlang-Security
+## Rust-Security
 
 Rust Language Security
 
