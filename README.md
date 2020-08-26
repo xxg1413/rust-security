@@ -27,10 +27,11 @@ Rust Language Security
 
 ## Fuzz
 
-- [fuzz db](https://github.com/rust-fuzz/trophy-case)
-- [rustsec advisories](https://rustsec.org/advisories/)
+- [rust-fuzz db](https://github.com/rust-fuzz/trophy-case)
+- [rustsec advisories](https://rustsec.org/advisories/)\
+- [rust-fuzz book](https://rust-fuzz.github.io/book/)
 
-#### reference
+#### Reference
 
 - [Smoke-testing Rust HTTP clients](https://medium.com/@shnatsel/smoke-testing-rust-http-clients-b8f2ee5db4e6)
 - [How I’ve found vulnerability in a popular Rust crate ](https://medium.com/@shnatsel/how-ive-found-vulnerability-in-a-popular-rust-crate-and-you-can-too-3db081a67fb)
