@@ -28,8 +28,14 @@ Rust Language Security
 ## Fuzz
 
 - [rust-fuzz db](https://github.com/rust-fuzz/trophy-case)
-- [rustsec advisories](https://rustsec.org/advisories/)\
+- [rustsec advisories](https://rustsec.org/advisories/)
 - [rust-fuzz book](https://rust-fuzz.github.io/book/)
+
+### Fuzzer
+- [cargo fuzz](https://github.com/rust-fuzz/cargo-fuzz)
+- [libfuzzer](https://github.com/rust-fuzz/libfuzzer)
+- [afl](https://github.com/rust-fuzz/afl.rs)
+- [honggfuzz](https://github.com/rust-fuzz/honggfuzz-rs)
 
 #### Reference
 
