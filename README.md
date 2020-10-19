@@ -7,7 +7,7 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 
 ## CVE
 
-### Rust-lang
+## Rust-lang
 
 | ID | CVE-ID  |    Description    |  Analysis      |
 |----|---------|    -------------  |  ------------  |
@@ -19,9 +19,11 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 | 1 | [CVE-2018-1000622](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000622) | Uncontrolled Search Path Element | None |
 
 
-### Rust Crates
+## Rust Crates
 
-#### rust-base64
+- CVE-2017-1000430: rust-base64(#CVE-2017-1000430)
+
+#### CVE-2017-1000430
 
 [CVE-2017-1000430](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2017-1000430): Integer overflow leads to heap-based buffer overflow in encode_config_buf
 
