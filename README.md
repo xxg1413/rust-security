@@ -11,7 +11,8 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 
 | ID | CVE-ID  |    Description    |  Analysis      |
 |----|---------|    -------------  |  ------------  |
-| 6 | [CVE-2019-1010299](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-CVE-2019-1010299) | Obtain Information | None |
+| 7 | [CVE-2020-26297](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26297) | mdBook XSS | None |
+| 6 | [CVE-2019-1010299](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1010299) | Obtain Information | None |
 | 5 | [CVE-2019-16760](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16760) | Cargo download the wrong dependency | None |
 | 4 | [CVE-2019-12083](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12083) | IOverflow  | None |
 | 3 | [CVE-2018-1000810](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000810) | Integer Overflow to Buffer Overflow  | None |
