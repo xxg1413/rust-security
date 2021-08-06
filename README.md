@@ -9,15 +9,15 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 
 ## Rust-lang
 
-| ID | CVE-ID  |    Description    |  Analysis      |
-|----|---------|    -------------  |  ------------  |
-| 7 | [CVE-2020-26297](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26297) | mdBook XSS | None |
-| 6 | [CVE-2019-1010299](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1010299) | Obtain Information | None |
-| 5 | [CVE-2019-16760](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16760) | Cargo download the wrong dependency | None |
-| 4 | [CVE-2019-12083](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12083) | IOverflow  | None |
-| 3 | [CVE-2018-1000810](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000810) | Integer Overflow to Buffer Overflow  | None |
-| 2 | [CVE-2018-1000657](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000657) | Buffer Overflow | None |
-| 1 | [CVE-2018-1000622](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000622) | Uncontrolled Search Path Element | None |
+| ID | RUSTSEC-ID | CVE-ID  |    Description    |  Analysis      |
+|----| ---------  | ---------|    -------------  |  ------------  |
+| 7 | [RUSTSEC-2021-0001](https://rustsec.org/advisories/RUSTSEC-2021-0001.html) | [CVE-2020-26297](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26297) | XSS in mdBook's search page | [mdBook搜索界面的XSS](./CVE-2020-26297) |
+| 6 | | [CVE-2019-1010299](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1010299) | Obtain Information | None |
+| 5 | | [CVE-2019-16760](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16760) | Cargo download the wrong dependency | None |
+| 4 | | [CVE-2019-12083](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-12083) | IOverflow  | None |
+| 3 | | [CVE-2018-1000810](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000810) | Integer Overflow to Buffer Overflow  | None |
+| 2 | | [CVE-2018-1000657](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000657) | Buffer Overflow | None |
+| 1 | | [CVE-2018-1000622](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2018-1000622) | Uncontrolled Search Path Element | None |
 
 
 ## Rust Crates
@@ -37,6 +37,7 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 - [rust-fuzz book](https://rust-fuzz.github.io/book/)
 
 ### Fuzzer
+
 - [cargo fuzz](https://github.com/rust-fuzz/cargo-fuzz)
 - [libfuzzer](https://github.com/rust-fuzz/libfuzzer)
 - [afl](https://github.com/rust-fuzz/afl.rs)
