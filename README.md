@@ -9,7 +9,7 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 
 ## Rust-lang
 
-| ID | RUSTSEC-ID | CVE-ID  |    Description    |  Analysis      |
+| ID | RUSTSEC-ID | CVE-ID  |    Description    |  Writeup |
 |:--:| :--------  | :--------|    :-----------:  |  :----------:  |
 |  | [RUSTSEC-2021-0001](https://rustsec.org/advisories/RUSTSEC-2021-0001.html) | [CVE-2020-26297](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26297) | XSS in mdBook's search page | [mdBook搜索界面的XSS](./CVE-2020-26297) |
 |  | | [CVE-2019-1010299](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1010299) | Obtain Information | None |
