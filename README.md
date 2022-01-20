@@ -11,6 +11,7 @@ execrices: [rust-ctf](https://github.com/xxg1413/rust-ctf)
 
 | ID | RUSTSEC-ID | CVE-ID  |    Description    |  Writeup |
 |:--:| :--------  | :--------|    :-----------:  |  :----------:  |
+|  | [RUSTSEC-2022-0001](https://rustsec.org/advisories/RUSTSEC-2022-0001.html) | [CVE-2022-21658](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2022-21658) | `std::fs::remove_dir_all`standard library function is vulneable a race condition enabling symlink following (CWE-363). |  |
 |  | [RUSTSEC-2021-0001](https://rustsec.org/advisories/RUSTSEC-2021-0001.html) | [CVE-2020-26297](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2020-26297) | XSS in mdBook's search page | [mdBook搜索界面的XSS](./CVE-2020-26297) |
 |  | | [CVE-2019-1010299](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-1010299) | Obtain Information | None |
 |  | | [CVE-2019-16760](http://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2019-16760) | Cargo download the wrong dependency | None |
